@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/mln9t3h6297w7e6h/branch/main?svg=true)](https://ci.appveyor.com/project/mosius27/ra-lifecycle-http-watches)
+[![Build status](https://ci.appveyor.com/api/projects/status/mln9t3h6297w7e6h/branch/main?svg=true)](https://ci.appveyor.com/project/mosius27/ra-lifecycle-http-watches/branch/master)
 
 # ra_lifecycle-http_watches
 Мировые часы
